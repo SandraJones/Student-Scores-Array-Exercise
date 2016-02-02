@@ -26,7 +26,7 @@ for (var i = 0; i < scores.length; i++) {
 		   	 	    	console.log("F grade", numberOfF);
 		   	 	    }	   	 	    	   	          
 	}
-//Use console.log to output the following criteria:
+//Use console.log to o utput the following criteria:
 
 
 //How many of each grade?
